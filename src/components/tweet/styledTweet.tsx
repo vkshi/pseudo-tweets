@@ -30,7 +30,7 @@ const StyledIcon = styled.img`
 const StyledVerified = styled.span`
   
   ${(props: { verified: boolean }) => props.verified && css`
-    color: rgb(0, 255, 0);
+    color: #1dcaff;
 
     &::after {
     content: '✓';
