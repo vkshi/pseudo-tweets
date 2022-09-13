@@ -1,0 +1,20 @@
+[
+  {
+    "avatarURL": "https://i.pravatar.cc/150?u=fake@pravatar.com",
+    "name": "Brendan",
+    "comment": "I love the gym so much. I stretch. I swim. There are human males. I want to get swole grrrrrrrrr ooof manly man oof grrrrr",
+    "verified": false
+  },
+  {
+    "avatarURL": "https://i.pravatar.cc/150?u=fake2@pravatar.com",
+    "name": "Ki Shi",
+    "comment": "Best day of my life! All of BTS just walked into my egg shoppe (Some R Savory) and said they all want to marry me. (I declined, but was so flattered)",
+    "verified": false
+  },
+  {
+    "avatarURL": "https://i.pravatar.cc/150?u=fake3@pravatar.com",
+    "name": "Patrick Wavers",
+    "comment": "Rode my motorcyle around town to see a movie. Talked about the movie and rode my motorcyle back. By the way, I work at Google",
+    "verified": true
+  }
+]
